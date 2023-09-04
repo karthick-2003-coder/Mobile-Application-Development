@@ -108,9 +108,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-Developed by: Sai Krishna Gandham
+Developed by: P.KARTHICK
 
-Registeration Number : 212220220012
+Registeration Number : 212220220072
 
 
 ## OUTPUT
